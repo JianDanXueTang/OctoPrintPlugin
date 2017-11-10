@@ -11,7 +11,7 @@ def getMetaData():
         "plugin": {
             "name": "OctoPrint connection",
             "author": "fieldOfView",
-            "version": "2.4",
+            "version": "2.6",
             "description": catalog.i18nc("@info:whatsthis", "Allows sending prints to OctoPrint and monitoring the progress"),
             "api": 3
         }
